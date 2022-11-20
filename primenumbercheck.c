@@ -5,7 +5,8 @@ int main(void)
     int inputnumber, counter;
     int isPrime;
 
-    scanf("%d", &inputnumber);
+    printf("Input a number\n");
+    scanf(" %d", &inputnumber);
     printf("Hello World Karthik\n");
     printf("Your Input Number is %4d\n", inputnumber);
 
